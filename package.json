@@ -1,6 +1,6 @@
 {
   "name": "wttr-in-mcp",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "type": "module",
   "description": "A stdio MCP server for weather data from wttr.in",
   "license": "MIT",
