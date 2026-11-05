@@ -16,7 +16,7 @@
   "keywords": ["mcp", "model-context-protocol", "weather", "wttr.in"],
   "files": ["index.js", "weather.js", "README.md", "LICENSE"],
   "bin": {
-    "wttr-in-mcp": "./index.js"
+    "wttr-in-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js",
